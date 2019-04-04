@@ -1,0 +1,4 @@
+How many commits are there in total? In total there are 11 commits
+When was the last commit made? The last commit was made on 20th of March 2018
+Who is the author of those commits? The author is Stopa
+What changes were made in the commit with the SHA-1 hash cebfb97? With this commit local configuration data was added to a file config.txt
